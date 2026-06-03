@@ -6,10 +6,9 @@
 
 <div id="title" align=center>
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/byzh_rc)
-[![CSDN](https://img.shields.io/badge/CSDN-red)](https://blog.csdn.net/qq_54636039)
+[![知乎](https://img.shields.io/badge/byzh-yello)](https://www.zhihu.com/people/byzh_rc)
+[![CSDN](https://img.shields.io/badge/byzh-red)](https://blog.csdn.net/qq_54636039)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-无聊-yellow) 
 ![](https://img.shields.io/badge/性格-你猜-red) 
 ![](https://img.shields.io/badge/爱好-科研-red)
