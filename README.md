@@ -6,8 +6,8 @@
 
 <div id="title" align=center>
 
-[![知乎](https://img.shields.io/badge/byzh-yello)](https://www.zhihu.com/people/byzh_rc)
-[![CSDN](https://img.shields.io/badge/byzh-red)](https://blog.csdn.net/qq_54636039)
+![](https://img.shields.io/badge/知乎-byzh-yello)(https://www.zhihu.com/people/byzh_rc)
+![](https://img.shields.io/badge/CSDN-byzh-red)(https://blog.csdn.net/qq_54636039)
 
 ![](https://img.shields.io/badge/讨厌-无聊-yellow) 
 ![](https://img.shields.io/badge/性格-你猜-red) 
