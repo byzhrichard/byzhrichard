@@ -1,8 +1,10 @@
-## Hi there 👋
+<!--
+首行: https://readme-typing-svg.herokuapp.com/demo/
+-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byzhrichard)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byzhrichard)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+byzh~" alt="Typing SVG" />
+</h1>
 
 <div id="title" align=center>
 
