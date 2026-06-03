@@ -6,19 +6,12 @@
 
 <div id="title" align=center>
 
-<a href="https://www.zhihu.com/people/byzh_rc" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/知乎-byzh-yellow">
-</a>
-<a href="https://blog.csdn.net/qq_54636039" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CSDN-byzh-red">
-</a>
-
 [![](https://img.shields.io/badge/知乎-byzh-yello)](https://www.zhihu.com/people/byzh_rc)
 [![](https://img.shields.io/badge/CSDN-byzh-red)](https://blog.csdn.net/qq_54636039)
 
 ![](https://img.shields.io/badge/讨厌-无聊-yellow) 
-![](https://img.shields.io/badge/性格-你猜-red) 
-![](https://img.shields.io/badge/爱好-科研-red)
+![](https://img.shields.io/badge/性格-你猜-orange) 
+![](https://img.shields.io/badge/爱好-科研-green)
 
 </div>
 
